@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @itsaslowball
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Structure and Algorithm
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Priyanshu (@itsaslowball)
+- 🌱 I’m currently learning Web Developement (MERN Stack)
 - 📫 How to reach me My email ID -  priya14anshu@gmail.com
 
 <!---
