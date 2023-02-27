@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu (@itsaslowball)
 - 🌱 I’m currently learning Web Developement (MERN Stack)
-- 📫 How to reach me My email ID -  priya14anshu@gmail.com
+- 📫 You can connect with me on linkedin -  https://www.linkedin.com/in/itsaslowball/
 
 <!---
 itsaslowball/itsaslowball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
