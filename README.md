@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am currently doing web development and have hands on experience in react and expressJs.
+Full Stack Developer 💻 Passionate about crafting seamless user experiences with React.js and building robust backend solutions using Node.js, Express.js, and MongoDB 🚀
 
 * 🌍  I'm based in Mysuru, India
 * 🖥️  See my portfolio at [MyPortfolio](http://priyanshu-portfolio-react.netlify.app/)
