@@ -7,7 +7,7 @@ Web Developer
 Full Stack Developer 💻 Passionate about crafting seamless user experiences with React.js and building robust backend solutions using Node.js, Express.js, and MongoDB 🚀
 
 * 🌍  I'm based in Mysuru, India
-* 🖥️  See my portfolio at [MyPortfolio](http://priyanshu-portfolio-react.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](http://priyans34.netlify.app/)
 * ✉️  You can contact me at [priya14anshu@gmail.com](mailto:priya14anshu@gmail.com)
 * 🧠  I'm learning MERN Stack
 
